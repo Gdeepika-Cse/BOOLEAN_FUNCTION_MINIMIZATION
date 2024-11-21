@@ -1,4 +1,9 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
+**NAME : S ABISHEK**
+
+**REG NO : 24900833**
+
+**EXPERIMENT : BOOLEAN_FUNCTION_MINIMIZATION**
+
 
 **AIM:**
 
@@ -33,18 +38,19 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Program:**
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. *
+  !](https://github.com/user-attachments/assets/4e14694e-447a-4b08-93c3-152c2c413a33)
 
-Developed by: RegisterNumber:*/
+
+
 
 
 **RTL realization**
+!(https://github.com/user-attachments/assets/9e3e30e7-c601-41dc-9d4a-3f52d96f1f84)
 
-**Output:**
-
-**RTL**
 
 **Timing Diagram**
+!(https://github.com/user-attachments/assets/74ac13a5-351a-4a80-b67a-65a0a13469d6)
 
 **Result:**
 
