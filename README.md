@@ -2,7 +2,7 @@
 
 **REG NO : 24900833**
 
-**EXPERIMENT : BOOLEAN_FUNCTION_MINIMIZATION**
+**EXPERIMENT 2 : BOOLEAN_FUNCTION_MINIMIZATION**
 
 
 **AIM:**
@@ -36,6 +36,9 @@ Hardware – PCs, Cyclone II , USB flasher
 
 ![WhatsApp Image 2024-11-21 at 10 38 49_31d02bdc](https://github.com/user-attachments/assets/6335030a-aa19-493c-aa7c-caa2f9d18bc4)
 
+**TRUTH TABLE**
+![WhatsApp Image 2024-11-21 at 11 34 59_158c6d9f](https://github.com/user-attachments/assets/180440d0-631d-45bf-a85a-4508c9f41e65)
+![WhatsApp Image 2024-11-21 at 11 34 59_158c6d9f](https://github.com/user-attachments/assets/f1b14a60-940a-43f9-8c12-a99825fda4c5)
 
 
 **RTL REALIZATION**
