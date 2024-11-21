@@ -23,7 +23,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Logic Diagram**
 
-**Procedure**
+**PROCEDURE**
 
 1.	Type the program in Quartus software.
 
@@ -36,21 +36,21 @@ Hardware – PCs, Cyclone II , USB flasher
 5.	For different input combinations generate the timing diagram.
 
 
-**Program:**
+**PROGRAM:**
 
 ![WhatsApp Image 2024-11-21 at 10 38 49_31d02bdc](https://github.com/user-attachments/assets/6335030a-aa19-493c-aa7c-caa2f9d18bc4)
 
 
 
-**RTL realization**
+**RTL REALIZATION**
 
 ![WhatsApp Image 2024-11-21 at 10 39 01_59a4773c](https://github.com/user-attachments/assets/d2fe1b17-ec84-43fa-b3be-3e47c39543f7)
 
 
-**Timing Diagram**
+**TIMING DIAGRAM**
 ![WhatsApp Image 2024-11-21 at 10 38 35_6f76205c](https://github.com/user-attachments/assets/77517132-8223-49b6-bad0-8941a4c7875a)
 
-**Result:**
+**RESULT**
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
