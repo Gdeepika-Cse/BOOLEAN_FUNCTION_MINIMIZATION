@@ -54,7 +54,7 @@ This process helps in understanding digital circuit design and simulation using 
 
 
 
-**TIMING DIAGRAM**
+**WAVE FORM**
 ![WhatsApp Image 2025-03-19 at 9 28 20 AM (1)](https://github.com/user-attachments/assets/55f67c9d-02c6-41c8-a2cb-e91394415035)
 
 
