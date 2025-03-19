@@ -31,6 +31,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **PROGRAM:**
+
 ![WhatsApp Image 2025-03-19 at 9 28 20 AM](https://github.com/user-attachments/assets/ef7fa114-a4fb-4afa-bc9a-7a9a9004bd7e)
 
 **RTL REALIZATION**
