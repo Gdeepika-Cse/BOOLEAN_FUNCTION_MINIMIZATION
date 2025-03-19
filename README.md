@@ -34,6 +34,12 @@ Hardware – PCs, Cyclone II , USB flasher
 
 ![WhatsApp Image 2025-03-19 at 9 28 20 AM](https://github.com/user-attachments/assets/ef7fa114-a4fb-4afa-bc9a-7a9a9004bd7e)
 
+*TRUTH TABLE*
+
+![WhatsApp Image 2024-11-21 at 11 34 59_158c6d9f](https://github.com/user-attachments/assets/180440d0-631d-45bf-a85a-4508c9f41e65)
+
+![WhatsApp Image 2024-11-21 at 11 34 59_05329a2a](https://github.com/user-attachments/assets/e7443311-e06d-405a-9194-a60e492f0585)
+
 **RTL REALIZATION**
 
 ![WhatsApp Image 2025-03-19 at 9 28 15 AM](https://github.com/user-attachments/assets/c233ac40-2b9f-4663-b3b6-2044ec65a68f)
